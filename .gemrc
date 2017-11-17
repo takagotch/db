@@ -1,0 +1,2 @@
+nstall: --no-ri --no-rdoc
+update: --no-ri --no-rdoc
