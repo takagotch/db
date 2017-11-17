@@ -2,7 +2,8 @@
 cp -r pg mysqld
 
 ls
-ls -l
 ls -A
+ls -R
+ls -l
 
 rm -rf pg

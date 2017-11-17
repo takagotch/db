@@ -5,12 +5,14 @@
   - data
     - pg_hba.conf #main
     - postgresql.conf
-  - database.yml
+  - config
+    - database.yml
   - cmd.sh
 
 - mysqld
   - my.cnf #main
-  - database.yml
+  - config
+    - database.yml
   - cmd.sh
 
 - .gemrc
