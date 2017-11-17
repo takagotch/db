@@ -13,7 +13,7 @@
   - database.yml
   - cmd.sh
 
--.gemrc
+- .gemrc
 
 - cmd.sh
 - linux.sh
