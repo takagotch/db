@@ -1,22 +1,22 @@
 #dbms
 ---
-README.md
-pg
+- README.md
+- pg
   - data
     - pg_hba.conf #main
     - postgresql.conf
   - database.yml
-    cmd.sh
+  - cmd.sh
 
-mysqld
+- mysqld
   - my.cnf #main
-    database.yml
-    cmd.sh
+  - database.yml
+  - cmd.sh
 
-.gemrc
+-.gemrc
 
-cmd.sh
-linux.sh
+- cmd.sh
+- linux.sh
 
 
 
