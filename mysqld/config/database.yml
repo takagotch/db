@@ -1,0 +1,11 @@
+production:
+  adapter: mysqld2
+  encoding: utf8
+  reconnect: false
+  database: app_production
+  pool: 5
+  username: app
+  password: pass
+# socket: /var/lib/mysql/mysql.sock
+  host: 192.168.33.10
+  port: 8080

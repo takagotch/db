@@ -7,3 +7,7 @@ ls -R
 ls -l
 
 rm -rf pg
+
+mkdir config
+mv database.yml config
+
